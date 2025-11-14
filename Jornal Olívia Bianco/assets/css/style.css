@@ -3,7 +3,7 @@
     box-sizing: border-box;
 }
 html, body{
-    background-image: url("../jornal.jpg");
+    background-image: url("../utils/img/jornal.jpg");
     background-position: center;
     background-repeat: repeat;
     background-size: cover;
